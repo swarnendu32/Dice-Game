@@ -1,0 +1,42 @@
+body
+{
+	text-align: center;
+	background-color: #1b262c;
+}
+.container
+{
+	padding-top: 20px;
+}
+.dice
+{
+	text-align: center;
+	display: inline-block;
+	padding: 20px;
+}
+h1
+{
+	color: #a2de96;
+	font-family: 'Lobster', cursive;
+	line-height: 5rem;
+	font-size: 5rem;
+}
+h2
+{
+	color: #a2de96;
+	font-family: 'Indie Flower', cursive;
+	line-height: 5rem;
+	font-size: 2rem;
+}
+img
+{
+	width: 150px;
+	height: 150px;
+}
+footer
+{
+	padding-top: 50px;
+	color: grey;
+	font-family: 'Indie Flower', cursive;
+
+}
+
